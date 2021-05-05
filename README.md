@@ -6,11 +6,12 @@
   
   
 You could contact me using those links.*
-
-  <a href="https://www.linkedin.com/in/furkanozb/" target="_blank" rel="nofollow"><img alt="Furkan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    
+<p>
+    <a href="https://www.linkedin.com/in/furkanozb/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
   <a href="mailto:furkanozb37@gmail.com" target="_blank" rel="nofollow"><img alt="Furkan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+</p>
 
 
 <!--

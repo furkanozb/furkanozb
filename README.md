@@ -5,6 +5,8 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=furkanozb.visitor-badge)](https://GitHub.com/furkanozb/StrapDown.js/stargazers/)
   
   
+You could contact me using those links.*
+
   <a href="https://www.linkedin.com/in/furkanozb/" target="_blank" rel="nofollow"><img alt="Furkan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     
   <a href="mailto:furkanozb37@gmail.com" target="_blank" rel="nofollow"><img alt="Furkan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

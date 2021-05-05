@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/furkanozb?style=social)](https://github.com/furkanozb?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/furkanozb?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=furkanozb.visitor-badge)](https://GitHub.com/furkanozb/StrapDown.js/stargazers/)
+
 <!--
 **furkanozb/furkanozb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
